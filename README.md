@@ -9,7 +9,7 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
 
 - 📫 How to reach me via:
   - email: federicogentile90@protonmail.com
-  - website: federicogentile.crypto
+  - website: federicogentile.crypto (requires [Unstoppable Domains Extension](https://unstoppabledomains.com/extension))
 
 #### Github Stats 📊
 
@@ -17,8 +17,7 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
 
 ### Stack Overflow & Stack Exchange Stats
 
-<a href="https://stackexchange.com/users/4143292/federico-gentile"><img src="https://stackexchange.com/users/flair/4143292.png" width="208" height="58" alt="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
+<a href="https://stackoverflow.com/users/4143292/federico-gentile"><img src="https://stackoverflow.com/users/flair/4143292.png" width="208" height="58" alt="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 
 <!---
