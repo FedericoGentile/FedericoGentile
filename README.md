@@ -10,7 +10,7 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
 - 📫 How to reach me via:
   - email: federicogentile90@protonmail.com
   - website:
-      - federicogentile.github.io](https://federicogentile.github.io/)
+      - [federicogentile.github.io](https://federicogentile.github.io/)
       - [federicogentile.crypto](https://federicogentile.crypto/) (requires [Unstoppable Domains Extension](https://unstoppabledomains.com/extension))
 
 #### Github Stats 📊
