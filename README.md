@@ -15,7 +15,7 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
 
 #### Github Stats 📊
 
-[![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoGentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoGentile&show_icons=true&theme=radical)](https://github.com/FedericoGentile/github-readme-stats)
 
 ### Stack Overflow & Stack Exchange Stats
 
