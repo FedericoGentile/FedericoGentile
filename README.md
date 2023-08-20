@@ -12,27 +12,7 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
 - website:
   - [federicogentile.github.io](https://federicogentile.github.io/)
   - [federicogentile.crypto](https://federicogentile.crypto/) (requires [Unstoppable Domains Extension](https://unstoppabledomains.com/extension))
-
-### Profile views
-<table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/FedericoGentile"><img src="https://github.com/FedericoGentile.png" alt="@FedericoGentile" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/FedericoGentile"><b>FedericoGentile</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/FedericoGentile"> <img src="https://komarev.com/ghpvc/?username=FedericoGentile&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-</table>
+<a href="https://github.com/FedericoGentile"> <img src="https://komarev.com/ghpvc/?username=FedericoGentile&style=for-the-badge&color=brightgreen"> </a>
 
 ### My Stats 📊
 #### GitHub
