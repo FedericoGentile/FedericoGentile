@@ -4,16 +4,16 @@
 [![Federico Gentile Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gentile-b1091552/)
 [![Federico Gentile YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@federicogentile90)
 [![Federico Gentile StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4143292/federico-gentile)
+<a href="https://github.com/FedericoGentile"> <img src="https://komarev.com/ghpvc/?username=FedericoGentile&style=for-the-badge&color=brightgreen"> </a>
 
-I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain, IoT...
+I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain, IoT... Hit me up if you have some interesting job for me!
 
 ### How to reach me 📫
 - email: federicogentile90@protonmail.com
 - website:
   - [federicogentile.github.io](https://federicogentile.github.io/)
   - [federicogentile.crypto](https://federicogentile.crypto/) (requires [Unstoppable Domains Extension](https://unstoppabledomains.com/extension))
-<a href="https://github.com/FedericoGentile"> <img src="https://komarev.com/ghpvc/?username=FedericoGentile&style=for-the-badge&color=brightgreen"> </a>
-
+    
 ### My Stats 📊
 #### GitHub
 [![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoGentile&show_icons=true&theme=radical)](https://github.com/FedericoGentile/github-readme-stats)
