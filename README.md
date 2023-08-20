@@ -1,4 +1,4 @@
-
+![readme_banner](https://github.com/FedericoGentile/FedericoGentile/assets/43808134/a0714847-c3b1-4110-844c-7e8fc879dbfe)
 <h2> Hi there 👋, I'm Federico Gentile! </h2>
     
 [![Federico Gentile Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gentile-b1091552/)
