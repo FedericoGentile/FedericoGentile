@@ -13,12 +13,11 @@ I’m interested in Aerospace Engineering, Aviation, Python, Bitcoin, Blockchain
       - [federicogentile.github.io](https://federicogentile.github.io/)
       - [federicogentile.crypto](https://federicogentile.crypto/) (requires [Unstoppable Domains Extension](https://unstoppabledomains.com/extension))
 
-#### Github Stats 📊
-
+### My Stats 📊
+#### GitHub
 [![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoGentile&show_icons=true&theme=radical)](https://github.com/FedericoGentile/github-readme-stats)
 
-### Stack Overflow & Stack Exchange Stats
-
+#### Stack Overflow & Stack Exchange Stats
 <a href="https://stackoverflow.com/users/4143292/federico-gentile"><img src="https://stackoverflow.com/users/flair/4143292.png" width="208" height="58" alt="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Federico Gentile on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 
